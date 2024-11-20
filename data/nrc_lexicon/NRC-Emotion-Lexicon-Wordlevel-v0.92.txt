@@ -109048,6 +109048,16 @@ saddle	positive	0
 saddle	sadness	0
 saddle	surprise	0
 saddle	trust	0
+sad	anger	0
+sad	anticipation	0
+sad	disgust	0
+sad	fear	0
+sad	joy	0
+sad	negative	1
+sad	positive	0
+sad	sadness	1
+sad	surprise	0
+sad	trust	0
 sadly	anger	0
 sadly	anticipation	0
 sadly	disgust	0
