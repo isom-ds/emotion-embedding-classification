@@ -4,5 +4,7 @@ from .load import (
     nrc_emotions, 
     nrc_sentiment, 
     uk2us, 
-    us2uk
+    us2uk,
+    l_emotions,
+    d_go_emotions
 )

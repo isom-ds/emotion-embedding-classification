@@ -27,3 +27,11 @@ with open('data/spellings/british_spellings.json') as f:
     uk2us = json.load(f)
 with open('data/spellings/american_spellings.json') as f:
     us2uk = json.load(f)
+
+#%%
+with open('data/go_emotions/emotions.txt', "r") as file:
+    lines = file.readlines()
+
+# Remove any trailing newline characters
+l_emotions = [line.strip() for line in lines]
+d_go_emotions = {i:e for i,e in enumerate(l_emotions)}
