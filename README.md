@@ -67,7 +67,7 @@ Run the numbered Jupyter notebooks in ascending order for reproducibility. Start
 
 ## References
 
-B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Doing More with Less: Tackling Data Limitations in Emotion Detection in Text Using Generative AI," in *AMCIS 2025 Proceedings*, 2025.
+B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Doing More with Less: Tackling Data Limitations in Emotion Detection in Text Using Generative AI," in *AMCIS 2025 Proceedings*, 2025 [Online]. Available: https://aisel.aisnet.org/amcis2025/sig_aiaa/sig_aiaa/5.
 
 <details>
 <summary>BibTeX</summary>
