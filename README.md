@@ -78,6 +78,7 @@ B. V. Kok-Shun, J. Chan, G. Peko, and D. Sundaram, "Doing More with Less: Tackli
   booktitle = {{AMCIS} 2025 {Proceedings}},
   author    = {Kok-Shun, Brice Valentin and Chan, Johnny and Peko, Gabrielle and Sundaram, David},
   year      = {2025},
+  url      = {https://aisel.aisnet.org/amcis2025/sig_aiaa/sig_aiaa/5},
 }
 ```
 
